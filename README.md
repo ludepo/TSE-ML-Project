@@ -12,4 +12,4 @@ The 'CODE' folder contains the following scripts:
   + _Simulation:_ contains function to create simulated data according to different DGPs
   + _Estimators:_ contains fuction for determining the alpha range as well as function with estimators
 * _SW_data:_ script to fetch the Stock & Watson (2002) dataset used for the empirical application
-* _Application:_ scirpt for empirical application
+* _Application:_ script for empirical application
